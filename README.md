@@ -1,1 +1,2 @@
-# INFINITE-RUNNER--GAME
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
